@@ -1,7 +1,4 @@
 # Stopwatch
-### A simple console timer with C# .NET
+### A simple Stopwatch of console with C# 
 
-### Screeshots
-
-![menuLanguage](https://user-images.githubusercontent.com/73839667/170397351-bb651d7f-a6c8-4dbc-82dd-8eba0220a312.png)
-![menuEnglish](https://user-images.githubusercontent.com/73839667/170397347-cd883959-2ea9-43db-8547-0f4e923e206d.png)
+![Stopwatch](https://user-images.githubusercontent.com/73839667/170608611-d478b633-9710-4161-b9b7-50d60616a863.gif)
